@@ -754,7 +754,18 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
 }
+.col-sm-4 li{
+    padding:10px;
+}
 
+.navbar-brand img{
+    height: 40px;
+    width: auto;
+}
+.col-sm-12 img{
+    width: 100px;
+    height: auto;
+}
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -835,7 +846,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
