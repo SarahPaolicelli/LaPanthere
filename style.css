@@ -310,7 +310,7 @@ a:hover {
 
 .navbar-brand img {
     height: 40px;
-    width: 200px;
+    width: 217px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -763,11 +763,6 @@ h4 {
     padding:10px;
 }
 
-.navbar-brand img{
-    width: 200px;
-    height: 40px;
-    
-}
 .col-sm-12 img{
     width: 100px;
     height: 100px;
